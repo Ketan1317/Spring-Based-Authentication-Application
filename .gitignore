@@ -1,0 +1,106 @@
+# =========================
+# Frontend4SpringBoot (React + Vite)
+# =========================
+
+Frontend4SpringBoot/node_modules/
+Frontend4SpringBoot/dist/
+Frontend4SpringBoot/.vite/
+Frontend4SpringBoot/.cache/
+
+# Logs
+Frontend4SpringBoot/logs/
+Frontend4SpringBoot/*.log
+Frontend4SpringBoot/npm-debug.log*
+Frontend4SpringBoot/yarn-debug.log*
+Frontend4SpringBoot/yarn-error.log*
+Frontend4SpringBoot/pnpm-debug.log*
+
+# Environment files
+Frontend4SpringBoot/.env
+Frontend4SpringBoot/.env.local
+Frontend4SpringBoot/.env.*.local
+
+# IDE files
+Frontend4SpringBoot/.vscode/
+Frontend4SpringBoot/.idea/
+
+# OS files
+Frontend4SpringBoot/.DS_Store
+Frontend4SpringBoot/Thumbs.db
+
+# =========================
+# Auth_System (Spring Boot)
+# =========================
+
+# Maven
+Auth_System/target/
+
+# Gradle
+Auth_System/build/
+Auth_System/.gradle/
+
+# Application secrets
+Auth_System/src/main/resources/application-local.properties
+Auth_System/src/main/resources/application.properties
+Auth_System/src/main/resources/application-prod.properties
+
+# Logs
+Auth_System/logs/
+Auth_System/*.log
+
+# Generated files
+Auth_System/*.class
+
+# IDE files
+Auth_System/.idea/
+Auth_System/.vscode/
+Auth_System/*.iml
+
+# OS files
+Auth_System/.DS_Store
+Auth_System/Thumbs.db
+
+# =========================
+# COMMON
+# =========================
+
+# Environment files
+.env
+.env.*
+
+# IntelliJ
+.idea/
+*.iml
+
+# VS Code
+.vscode/
+
+# Eclipse
+.project
+.classpath
+.settings/
+
+# NetBeans
+nbproject/private/
+
+# Mac
+.DS_Store
+
+# Windows
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.temp
+*.swp
+*.swo
+
+# Archives
+*.zip
+*.tar
+*.gz
+
+# Package lock files (optional)
+# package-lock.json
+# yarn.lock
+# pnpm-lock.yaml
