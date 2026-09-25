@@ -287,10 +287,4 @@ http://localhost:8080
 - Audit Logging
 - Redis Token Store
 
----
 
-# 👨‍💻 Author
-
-**Ketan Goyal**
-
-Built to demonstrate secure authentication and authorization using Spring Boot and Spring Security.
